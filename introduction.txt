@@ -1,2 +1,2 @@
 Name: TranTrongNghia
-Hobby: programming
+Hobby: Programming
