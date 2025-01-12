@@ -1,2 +1,6 @@
 Name: TranTrongNghia
-Hobby: Programming , C++
+<<<<<<< HEAD
+Hobby: Programming , VolleyBall
+=======
+Hobby: Programming , VolleyBall
+>>>>>>> 8ef61ebe14a850d621dc119fc0bec4bae4e7b5b0
